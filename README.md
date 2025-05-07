@@ -2,7 +2,9 @@
 
 Poll Battle is a real-time polling application that allows users to create or join poll rooms and vote on questions. Results update instantly across all users in the same room using WebSockets.
 
-![Poll Battle](https://i.imgur.com/example.png)
+![Screenshot 2025-05-07 124040](https://github.com/user-attachments/assets/0c93fa6a-8dde-464d-b36e-c332da2fa351)
+![Screenshot 2025-05-07 124127](https://github.com/user-attachments/assets/6795e88a-718b-4c38-8668-f4976cd88c84)
+
 
 ## Features
 
