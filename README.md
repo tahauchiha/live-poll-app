@@ -39,7 +39,7 @@ Poll Battle is a real-time polling application that allows users to create or jo
 
 2. Navigate to the backend directory:
    ```bash
-   cd backend
+   cd server
    ```
 
 3. Install dependencies:
@@ -58,7 +58,7 @@ Poll Battle is a real-time polling application that allows users to create or jo
 
 1. Open a new terminal and navigate to the frontend directory:
    ```bash
-   cd ../frontend
+   cd ../client
    ```
 
 2. Install dependencies:
