@@ -31,8 +31,8 @@ Poll Battle is a real-time polling application that allows users to create or jo
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd poll-battle
+   git clone https://github.com/tahauchiha/live-poll-app.git
+   cd live-poll-app
    ```
 
 2. Navigate to the backend directory:
