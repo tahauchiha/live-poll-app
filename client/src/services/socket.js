@@ -2,6 +2,6 @@
 import io from 'socket.io-client';
 
 // Create a single socket instance
-const socket = io('http://localhost:5000');
+const socket = io('https://live-poll-app-server.vercel.app/');
 
 export default socket;
